@@ -1,11 +1,11 @@
 public class ReverseString {
 
     public static void main(String[] args) {
-        System.out.println(reverseString("test"));
-        System.out.println(reverseString("eat"));
-        System.out.println(reverseString("command"));
-        System.out.println(reverseString("constant"));
-        System.out.println(reverseString("habit"));
+        System.out.println(reverseString("test")); // tset
+        System.out.println(reverseString("eat")); // tae
+        System.out.println(reverseString("command")); // dnammoc
+        System.out.println(reverseString("constant")); // tnatsnoc
+        System.out.println(reverseString("habit")); // tibah
     }
 
     private static String reverseString(String input) {
