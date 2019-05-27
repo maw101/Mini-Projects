@@ -2,8 +2,6 @@ import java.util.Random;
 
 public class CoinFlip {
 
-    private static Random rand = new Random();
-
     public static void main(String[] args) {
         int numCoins = Integer.parseInt(args[0]);
         flipManyCoins(numCoins);
@@ -27,6 +25,7 @@ public class CoinFlip {
     }
 
     private static boolean coinFlipIsHead() {
+        Random rand = new Random();
         return rand.nextInt(2) == 0;
     }
 
