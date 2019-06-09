@@ -12,22 +12,23 @@ A list of practical problems divided in to multiple categories.
 
 Security
 ---------
-* [Caesar Cipher](src/CaesarCipher.java)  - Description
-* [Vigenere Cipher](src/VigenereCipher.java)  - Description
+* [Caesar Cipher](src/CaesarCipher.java)  
+* [Vigenere Cipher](src/VigenereCipher.java)  
 
 Number
 ---------
-* [Scarnes Dice](src/ScarnesDice.java)  - Description
-* [Multiplication Table](src/MultiplicationTable.java)  - Description
+* [Scarnes Dice](src/ScarnesDice.java)  
+* [Multiplication Table](src/MultiplicationTable.java)  
 * [Factorial (Haskell)](src/Factorial.hs)  - In Haskell
-* [Coin Flip](src/CoinFlip.java)  - Description
-* [Card Number Validator](src/CardNumberValidator.java)  - Description
+* [Coin Flip](src/CoinFlip.java)  
+* [Card Number Validator](src/CardNumberValidator.java)  
 
 Text
 ---------
-* [Reverse String](src/ReverseString.java)  - Description
-* [Fizz Buzz Test](src/FizzBuzzTest.java)  - Description
+* [Reverse String](src/ReverseString.java)  
+* [Fizz Buzz Test](src/FizzBuzzTest.java)  
+* [Number Word Equivalent](src/NumberWordEquivalent.java)
 
 Classic Algorithms
 ---------
-* [Collatz Conjecture](src/CollatzConjecture.java)  - Description
+* [Collatz Conjecture](src/CollatzConjecture.java)  
