@@ -1,5 +1,20 @@
+/**
+ * The CollatzConjecture program implements an application that provides
+ * a simulation of the Collatz Conjecture given a valid starting integer. 
+ * It simply displays the count for the number of steps taken for the 
+ * sequence to reach 1 again to the standard output.
+ *
+ * @author  Matthew Williams
+ * @version 1.0
+ * @since   2019-05-17
+ */
 public class CollatzConjecture {
 
+    /**
+     * The entry point of application.
+     *
+     * @param args the input arguments
+     */
     public static void main(String[] args) {
         int startingNumber = Integer.parseInt(args[0]);
         System.out.println(solveCollatz(startingNumber));

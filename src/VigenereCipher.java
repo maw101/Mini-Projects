@@ -2,8 +2,9 @@ import java.lang.Character;
 
 /**
  * The VigenereCipher program implements an application that
- * provides both encryption and decryption functions given
- * text and a key.
+ * provides both encryption and decryption functions using 
+ * the Vigenere Cipher algorithm when provided with text and 
+ * a key.
  *
  * @author  Matthew Williams
  * @version 1.0

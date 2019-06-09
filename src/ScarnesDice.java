@@ -1,17 +1,30 @@
-/**
-* An application which implements Scarne's Dice game.
-* 
-* If roll a 1, score no points and lose turn. If roll a
-* 2 to 6, add the rolled value to points and choose to reroll
-* or keep score and end turn. Winner is first player who reaches
-* a given number of points.
-*/
-
 import java.util.Random;
 import java.util.Scanner;
 
+/**
+ * The ScarnesDice program implements an application that provides
+ * a simulation the Scarnes Dice game given a positive integer 
+ * goal n. It facilitiates two players to play against each other
+ * taking turns to roll a six-sided die and deciding to keep the 
+ * number they rolled or reroll and hope for a better score if 
+ * the roll was not 1.
+ *
+ * If roll a 1, score no points and lose turn. If roll a
+ * 2 to 6, add the rolled value to points and choose to reroll
+ * or keep score and end turn. Winner is first player who reaches
+ * a given number of points.
+ *
+ * @author  Matthew Williams
+ * @version 1.0
+ * @since   2019-05-17
+ */
 public class ScarnesDice {
 
+    /**
+     * The entry point of application.
+     *
+     * @param args the input arguments
+     */
     public static void main(String[] args) {
         int scoreToStopAt = Integer.parseInt(args[0]);
         scarnesDiceGame(scoreToStopAt);

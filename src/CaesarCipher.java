@@ -1,5 +1,20 @@
+/**
+ * The CaesarCipher program implements an application that
+ * provides both encryption and decryption functions using 
+ * the Caesar Cipher algorithm when provided with text and 
+ * a key.
+ *
+ * @author  Matthew Williams
+ * @version 1.0
+ * @since   2019-05-27
+ */
 public class CaesarCipher {
 
+    /**
+     * The entry point of application.
+     *
+     * @param args the input arguments
+     */
     public static void main(String[] args) {
         System.out.println(caesarEncrypt("ABCDEFGHIJKLMNOPQRSTUVWXYZ", 27)); // BCDEFGHIJKLMNOPQRSTUVWXYZA
         System.out.println(caesarDecrypt("BCDEFGHIJKLMNOPQRSTUVWXYZA", 27)); // ABCDEFGHIJKLMNOPQRSTUVWXYZ
