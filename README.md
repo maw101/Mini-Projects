@@ -13,31 +13,31 @@ A list of practical problems divided in to multiple categories.
 
 Security
 ---------
-* [Caesar Cipher](src/CaesarCipher.java)  
-* [Vigenere Cipher](src/VigenereCipher.java)  
+* [Caesar Cipher](src/CaesarCipher.java) - an application that provides both encryption and decryption functions using the Caesar Cipher algorithm when provided with text and a key.
+* [Vigenere Cipher](src/VigenereCipher.java) - an application that provides both encryption and decryption functions using the Vigenere Cipher algorithm when provided with text and a key.
 
 Number
 ---------
-* [Scarnes Dice](src/ScarnesDice.java)  
-* [Multiplication Table](src/MultiplicationTable.java)  
-* [Factorial (Haskell)](src/Factorial.hs)  - In Haskell
-* [Coin Flip](src/CoinFlip.java)  
-* [Card Number Validator](src/CardNumberValidator.java)  
-* [Sieve of Eratosthenes](src/SieveOfEratosthenes.java)  
+* [Scarnes Dice](src/ScarnesDice.java) - an application that provides a simulation the Scarnes Dice game given a positive integer goal n.
+* [Multiplication Table](src/MultiplicationTable.java) - an application that provides a formatted multiplication table upto a given integer n.
+* [Factorial (Haskell)](src/Factorial.hs)  - a Simple Factorial function without the use of loops in Haskell.
+* [Coin Flip](src/CoinFlip.java) - an application that provides a simulation of n coin flips.
+* [Card Number Validator](src/CardNumberValidator.java) - an application that provides validation of a given card number using Luhn's Algorithm.
+* [Sieve of Eratosthenes](src/SieveOfEratosthenes.java) - an application that provides an implementation of the Sieve of Eratosthenes prime finding algorithm.
 
 Text
 ---------
-* [Reverse String](src/ReverseString.java)  
-* [Fizz Buzz Test](src/FizzBuzzTest.java)  
-* [Number Word Equivalent](src/NumberWordEquivalent.java)
+* [Reverse String](src/ReverseString.java) - an application that provides a reversed version of the string input.
+* [Fizz Buzz Test](src/FizzBuzzTest.java) - an application that displays the result of the fizz buzz test to the standard output for numbers 1 through 100.
+* [Number Word Equivalent](src/NumberWordEquivalent.java) - an application that provides a formatted word equivalent of a given integer n.
 
 Classic Algorithms
 ---------
-* [Collatz Conjecture](src/CollatzConjecture.java)  
+* [Collatz Conjecture](src/CollatzConjecture.java) - an application that provides a simulation of the Collatz Conjecture given a valid starting integer.
 
 Object Oriented
 ---------
-* [Simple Inventory Management System](src/SimpleInventoryManagementSystem/)  
+* [Simple Inventory Management System](src/SimpleInventoryManagementSystem/) - an Object-Oriented application that manages an inventory of products.
 
 
 
