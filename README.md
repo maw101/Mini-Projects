@@ -8,6 +8,7 @@ A list of practical problems divided in to multiple categories.
 - [Number](#number)
 - [Text](#text)
 - [Classic Algorithms](#classic-algorithms)
+- [Object-Oriented](#object-oriented)
 
 
 Security
@@ -22,6 +23,7 @@ Number
 * [Factorial (Haskell)](src/Factorial.hs)  - In Haskell
 * [Coin Flip](src/CoinFlip.java)  
 * [Card Number Validator](src/CardNumberValidator.java)  
+* [Sieve of Eratosthenes](src/SieveOfEratosthenes.java)  
 
 Text
 ---------
@@ -32,3 +34,10 @@ Text
 Classic Algorithms
 ---------
 * [Collatz Conjecture](src/CollatzConjecture.java)  
+
+Object Oriented
+---------
+* [Simple Inventory Management System](src/SimpleInventoryManagementSystem/)  
+
+
+
