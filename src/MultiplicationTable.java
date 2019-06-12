@@ -1,6 +1,6 @@
 /**
  * The MultiplicationTable program implements an application that provides
- * a formatted multiplication upto a given integer n. It simply displays  
+ * a formatted multiplication table upto a given integer n. It simply displays  
  * a table containing each number up to the given n on both axis and 
  * provides the value when the row is multiplied by the column. This is
  * displayed to the standard output.
