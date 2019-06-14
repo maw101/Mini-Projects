@@ -24,16 +24,21 @@ Number
 * [Coin Flip](src/CoinFlip.java) - an application that provides a simulation of n coin flips.
 * [Card Number Validator](src/CardNumberValidator.java) - an application that provides validation of a given card number using Luhn's Algorithm.
 * [Sieve of Eratosthenes](src/SieveOfEratosthenes.java) - an application that provides an implementation of the Sieve of Eratosthenes prime finding algorithm.
+* [Happy Numbers](src/HappyNumbers.java) - an application that displays the first N happy numbers.
 
 Text
 ---------
 * [Reverse String](src/ReverseString.java) - an application that provides a reversed version of the string input.
 * [Fizz Buzz Test](src/FizzBuzzTest.java) - an application that displays the result of the fizz buzz test to the standard output for numbers 1 through 100.
 * [Number Word Equivalent](src/NumberWordEquivalent.java) - an application that provides a formatted word equivalent of a given integer n.
+* [Palindrome](src/Palindrome.java) - an application that displays whether a given string is a palindrome.
 
 Classic Algorithms
 ---------
 * [Collatz Conjecture](src/CollatzConjecture.java) - an application that provides a simulation of the Collatz Conjecture given a valid starting integer.
+* [One Hundred Doors](src/OneHundredDoors.java) - an application that displays the 100 doors problem. 100 doors in a row are initially closed. 100 passes made by the doors. First time through, each door visited and the door is toggled (i.e. closed if open, opened if closed). Second time through, only visit every 2nd door. Third time only visit every 3rd door. Etc until reaching the 100th door.
+
+
 
 Object Oriented
 ---------
