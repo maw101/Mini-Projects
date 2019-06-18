@@ -32,13 +32,14 @@ Text
 * [Fizz Buzz Test](src/FizzBuzzTest.java) - an application that displays the result of the fizz buzz test to the standard output for numbers 1 through 100.
 * [Number Word Equivalent](src/NumberWordEquivalent.java) - an application that provides a formatted word equivalent of a given integer n.
 * [Palindrome](src/Palindrome.java) - an application that displays whether a given string is a palindrome.
+* [Count Vowels](src/CountVowels.java) - an application that displays the total number of vowels in a string along with counts for each individual vowel.
+* [Count Words in a String](src/CountWordsInString.java) - an application that displays the total number of words in a string.
 
 Classic Algorithms
 ---------
 * [Collatz Conjecture](src/CollatzConjecture.java) - an application that provides a simulation of the Collatz Conjecture given a valid starting integer.
 * [One Hundred Doors](src/OneHundredDoors.java) - an application that displays the 100 doors problem. 100 doors in a row are initially closed. 100 passes made by the doors. First time through, each door visited and the door is toggled (i.e. closed if open, opened if closed). Second time through, only visit every 2nd door. Third time only visit every 3rd door. Etc until reaching the 100th door.
-
-
+* [Return Change](src/ReturnChange.java) - an application that displays the break down of change in coins and notes when given an amount in pence.
 
 Object Oriented
 ---------
