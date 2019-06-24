@@ -25,6 +25,10 @@ Number
 * [Card Number Validator](src/CardNumberValidator.java) - an application that provides validation of a given card number using Luhn's Algorithm.
 * [Sieve of Eratosthenes](src/SieveOfEratosthenes.java) - an application that provides an implementation of the Sieve of Eratosthenes prime finding algorithm.
 * [Happy Numbers](src/HappyNumbers.java) - an application that displays the first N happy numbers.
+* [Fibonacci with Recursion](src/FibonacciWithRecursion.java) - an application that displays the nth Fibonacci number calculated through use of recursion.
+* [Fibonacci from the last two Fibonacci Numbers](src/FibonacciFromLastTwoFibNumbers.java) - an application that displays the nth Fibonacci number calculated through use of the previous two Fibonacci numbers.
+* [Fibonacci Number from Binets Formula](src/FibonacciWithBinetsFormula.java) - an application that displays the nth Fibonacci number calculated through use of Binet's formula.
+* [Mortgage Calculator](src/MortgageCalculator.java) - an application that calculates both a fixed monthly payment amount or the remaining loan balance for a mortgage.
 
 Text
 ---------
@@ -44,6 +48,6 @@ Classic Algorithms
 Object Oriented
 ---------
 * [Simple Inventory Management System](src/SimpleInventoryManagementSystem/) - an Object-Oriented application that manages an inventory of products.
-
+* [Simple JavaScript Library](src/SimpleJSLibrary.js) - a simple Object-Oriented library design holding Books, Media, and Movies.
 
 
