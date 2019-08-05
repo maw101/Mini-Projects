@@ -29,6 +29,8 @@ Number
 * [Fibonacci from the last two Fibonacci Numbers](src/FibonacciFromLastTwoFibNumbers.java) - an application that displays the nth Fibonacci number calculated through use of the previous two Fibonacci numbers.
 * [Fibonacci Number from Binets Formula](src/FibonacciWithBinetsFormula.java) - an application that displays the nth Fibonacci number calculated through use of Binet's formula.
 * [Mortgage Calculator](src/MortgageCalculator.java) - an application that calculates both a fixed monthly payment amount or the remaining loan balance for a mortgage.
+* [Simple Tax Calculator](src/SimpleTaxCalculator.java) - an application that calculates a final cost by adding a percentage of tax to the untaxed cost
+* [Cost to Cover Floor](src/CostToCoverFloor.java) - an application that calculates the number of tiles required to cover a room given both the rooms dimensions and the tiles dimensions. The application also calcualtes the cost for flooring given room and tile dimensions along with the cost per tile.
 
 Text
 ---------
@@ -49,5 +51,5 @@ Object Oriented
 ---------
 * [Simple Inventory Management System](src/SimpleInventoryManagementSystem/) - an Object-Oriented application that manages an inventory of products.
 * [Simple JavaScript Library](src/SimpleJSLibrary.js) - a simple Object-Oriented library design holding Books, Media, and Movies.
-
+* [Shape Area and Perimeter Classes](src/ShapeAreaAndPerimeterClasses/) - a collection of shapes developed using abstract parent classes.
 
