@@ -1,7 +1,7 @@
 # Mini-Projects
 
 ## Synopsis
-A list of practical problems divided in to multiple categories.
+A collection of practical problems divided in to multiple categories.
 
 ## Table of Contents
 - [Security](#security)
@@ -52,4 +52,3 @@ Object Oriented
 * [Simple Inventory Management System](src/SimpleInventoryManagementSystem/) - an Object-Oriented application that manages an inventory of products.
 * [Simple JavaScript Library](src/SimpleJSLibrary.js) - a simple Object-Oriented library design holding Books, Media, and Movies.
 * [Shape Area and Perimeter Classes](src/ShapeAreaAndPerimeterClasses/) - a collection of shapes developed using abstract parent classes.
-
