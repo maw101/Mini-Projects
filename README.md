@@ -31,6 +31,8 @@ Number
 * [Mortgage Calculator](src/MortgageCalculator.java) - an application that calculates both a fixed monthly payment amount or the remaining loan balance for a mortgage.
 * [Simple Tax Calculator](src/SimpleTaxCalculator.java) - an application that calculates a final cost by adding a percentage of tax to the untaxed cost
 * [Cost to Cover Floor](src/CostToCoverFloor.java) - an application that calculates the number of tiles required to cover a room given both the rooms dimensions and the tiles dimensions. The application also calcualtes the cost for flooring given room and tile dimensions along with the cost per tile.
+* [Submerged Balls in Water Tank](src/SubmergedBallsInWaterTank.java) - an application that determines if a water tank overflows given a number of balls are submerged in it
+* [Sierpinski Triangle](src/SierpinskiTriangle.java) - an application that outputs a Sierpinski Triangle of a given order
 
 Text
 ---------
