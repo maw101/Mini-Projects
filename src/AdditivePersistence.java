@@ -1,8 +1,8 @@
 /**
  * The AdditivePersistence program calculates the additive persistence
  * of a number, defined as how many loops you have to sum its digits
- * for until you get a single digit. The total number of iterations 
- * is the additive persistence of the number, this is printed to the
+ * until you get a single digit. The total number of iterations is
+ * the additive persistence of the number, this is printed to the
  * standard output.
  *
  * @author  Matthew Williams
