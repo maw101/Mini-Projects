@@ -33,6 +33,7 @@ Number
 * [Cost to Cover Floor](src/CostToCoverFloor.java) - an application that calculates the number of tiles required to cover a room given both the rooms dimensions and the tiles dimensions. The application also calcualtes the cost for flooring given room and tile dimensions along with the cost per tile.
 * [Submerged Balls in Water Tank](src/SubmergedBallsInWaterTank.java) - an application that determines if a water tank overflows given a number of balls are submerged in it
 * [Sierpinski Triangle](src/SierpinskiTriangle.java) - an application that outputs a Sierpinski Triangle of a given order
+* [Additive Persistence](src/AdditivePersistence.java) - an application that calculates the additive persistence of a number, defined as how many loops you have to sum its digits until you get a single digit.
 
 Text
 ---------
