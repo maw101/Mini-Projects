@@ -55,7 +55,3 @@ Object Oriented
 * [Simple Inventory Management System](src/SimpleInventoryManagementSystem/) - an Object-Oriented application that manages an inventory of products.
 * [Simple JavaScript Library](src/SimpleJSLibrary.js) - a simple Object-Oriented library design holding Books, Media, and Movies.
 * [Shape Area and Perimeter Classes](src/ShapeAreaAndPerimeterClasses/) - a collection of shapes developed using abstract parent classes.
-<<<<<<< HEAD
-=======
-
->>>>>>> 576cb2d959e7d7d9dc176d721c1dd6518cb63a39
